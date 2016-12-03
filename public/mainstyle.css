@@ -8,12 +8,14 @@ body{
 	background-color: #1a8b8f;
 	padding-top:5vmin;
 }
+.center{
+	max-width:100%;
+	margin:0 auto;
+}
 
-.centerBox{
+.chart{
 	background-color: #A8CC38;
-	height:900px;
-	padding-top:100px;
-	width:1133px;
+	padding:100px;
 	box-shadow: #002730 4px 4px;
 	margin: 0 auto;
 	border-radius:10px;
