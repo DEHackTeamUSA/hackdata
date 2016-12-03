@@ -43,7 +43,7 @@ ___
 
 Created for [Dominion Enterprise's](https://dominionenterprises.com/) Hack Data Hackathon
 
-Technology
+## Technology
 * Deployed on Heroku via HTML5, CSS, Javascript, and NodeJS with Express.
 * Data acquisition done with Microsoft Azure through Python and Javascript web scraping.
 * Data pipelining through Microsoft Azure and T-SQL
@@ -51,7 +51,7 @@ Technology
 * Microsoft Power BI for Visualization
 * File sharing in Slack.
 
-APIs 
+## APIs 
 * Google Maps
 * Greater Hampton Roads Connect
 * Blizzard Battle.Net
