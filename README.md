@@ -57,7 +57,7 @@ Created for [Dominion Enterprise's](https://dominionenterprises.com/) Hack Data 
 * Blizzard Battle.Net
 
 
-[Brandon Burr](https://www.linkedin.com/in/baburr) - Machine Learning, Regression Modeling  
+[Brandon Burr](https://www.linkedin.com/in/baburr) - Machine Learning, Modeling and Simulation  
 [Marc Fogleman](https://www.linkedin.com/in/marcfogleman) - Web Design, Data Acquisition  
 [Andrew Hollis](https://www.linkedin.com/in/andrew-hollis-a8680b25) - Design, Visualization   
 [Corey Wofford](https://www.linkedin.com/in/coreywofford) - Python Scripting, Data Analysis  
