@@ -11,6 +11,11 @@ app.get('/', function(request, response) {
   response.sendFile(path.join(__dirname + '/index.html'));
 });
 
+app.get('index.html', function(request, response) {
+  response.sendFile(path.join(__dirname + '/index.html'));
+});
+
+
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });
