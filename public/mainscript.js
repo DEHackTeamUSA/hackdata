@@ -1,1 +1,1 @@
-console.log('mainscript found');
+console.log('mainscript found in public');
