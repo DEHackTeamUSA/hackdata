@@ -8,7 +8,7 @@
 
 * Players traveling along the Elizabeth River Trail can find virtual supplies within their game to help them control WayPoints, including drops sponsored by involved companies.  Players can also earn supplies by participating in chartiable projects and community events.  
 This alone is a good use of data to make a good change.  But we want a great change.
-_______________________________
+___
 
 The game will make massive ammounts of non personalized data available.  The city can use this data to meet the needs of the citizens, and modify the game, which in turn becomes better at meeting needs and generating charitable revnue.  Examples of this include
 
@@ -21,7 +21,8 @@ The game will make massive ammounts of non personalized data available.  The cit
 * Foot Traffic heat maps of the trail
 
 * Measurement of relative importance of various social issues to the citizens
-_______________________________
+___
+
 How you play the game,  
 
 Machine learning models have already been applied to leverage census data from the United Way Greater Hampton Roads Dashboard
@@ -35,3 +36,6 @@ A python script pulls the CSV data from the dashboard into the game's algorithm-
 Many games analyze data to improve their game.  This one analyzes data to improve the community.  
 
 data slicing
+
+
+___
