@@ -1,3 +1,30 @@
-*{
-	background-color: gray;
+/*
+#1A8B8F bluue 
+#A8CC38 green
+#F9A046 orange
+
+*/
+body{
+	background-color: #1a8b8f;
+	padding-top:5vmin;
+}
+
+.centerBox{
+	background-color: #A8CC38;
+	width:80%;
+	height:80vmin;
+	box-shadow: #002730 4px 4px;
+	margin: 0 auto;
+	border-radius:10px;
+	text-align:center;
+}
+
+.centerBox h1{
+	position: relative;
+	color: #002730;
+	padding-top:20vmin;
+}
+
+.centerBox h2{
+	color: #F9A046;
 }
