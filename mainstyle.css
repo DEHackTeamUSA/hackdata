@@ -1,3 +1,27 @@
+/*
+#1A8B8F bluue 
+#A8CC38 green
+#F9A046 orange
+
+*/
 *{
-	background-color: gray;
+	box-sizing:border-box;
 }
+body{
+	background-color: #1a8b8f;
+	padding-top:5vmin;
+}
+
+.boxed{
+	margin: 0 auto;
+	display:block;
+	margin-top:5vmin;
+	margin-bottom:5vmin;
+	background-color: #A8CC38;
+	max-width:100%;
+	padding:5%;
+	box-shadow: #002730 4px 4px;
+	border-radius:10px;
+	text-align:center;
+}
+

@@ -4,25 +4,24 @@
 #F9A046 orange
 
 */
+*{
+	box-sizing:border-box;
+}
 body{
 	background-color: #1a8b8f;
 	padding-top:5vmin;
 }
-.center{
-	max-width:100%;
-	margin:0 auto;
-}
 
 .boxed{
-	background-color: #A8CC38;
-	padding:100px;
-	box-shadow: #002730 4px 4px;
 	margin: 0 auto;
+	display:block;
+	margin-top:5vmin;
+	margin-bottom:5vmin;
+	background-color: #A8CC38;
+	max-width:100%;
+	padding:5%;
+	box-shadow: #002730 4px 4px;
 	border-radius:10px;
 	text-align:center;
 }
 
-iframe{ 
-	border-radius: 10px;
-	box-shadow: #F9a046 4px 4px;
- }
