@@ -11,11 +11,16 @@ body{
 
 .centerBox{
 	background-color: #A8CC38;
-	height:720px;
-	width:1030px;
+	height:900px;
+	padding-top:100px;
+	width:1133px;
 	box-shadow: #002730 4px 4px;
 	margin: 0 auto;
 	border-radius:10px;
 	text-align:center;
 }
 
+iframe{ 
+	border-radius: 10px;
+	box-shadow: #F9a046 4px 4px;
+ }
