@@ -1,42 +1,47 @@
 # Pocket Change
 [Deployed on Heroku](https://pocket-change.herokuapp.com)
 
-* One sentence overview of the game
+* Pocket change is a mobile game that leverages data to further social good      
 
-* Players will choose from available teams based on the social need that is most important to that player.  Companies along the Elizabeth River Trail can pledge a percentage of their profits to the United Way, in order to become a point of interest in the game, a 'United WayPoint'.  
+* Players will choose from available teams based on the social need that is most important to that player.  Companies along the Elizabeth River Trail can pledge a percentage of their profits to the United Way, in order to become a point of interest in the game, called a 'United WayPoint'.  
 
 * Players visit the United WayPoints and compete in the game for control.  The donations from the company that owns that WayPoint will go to the United Way social cause that is associated with the controlling team.  
 
-* Players traveling along the Elizabeth River Trail can find virtual supplies within their game to help them control WayPoints, including drops sponsored by involved companies.  Players can also earn supplies by participating in chartiable projects and community events.  
-This alone is a good use of data to make a good change.  But we want a great change.
+* Players traveling along the Elizabeth River Trail can find virtual supplies within their game to help them control WayPoints.  Players can also earn supplies in game by participating in chartiable projects and community events.  
+
+This alone is a good use of data to make a good change.  But Norfolk is a great city that deserves a great change.
+
 ___
 
-The game will make massive ammounts of non personalized data available.  The city can use this data to meet the needs of the citizens, and modify the game, which in turn becomes better at meeting needs and generating charitable revnue.  Examples of this include
+The game will convert player activity to actionable data.  The city can use this data to meet the needs of the citizens, and modify the game, which in turn becomes better at meeting needs and generating charitable revnue.    Examples of this include
 
 * Finding wifi and cellular deadspots
 
-* Analyzing amenity use, such as the number of users waiting for availability
+* Analyzing amenity use and needs
 
 * More efficient marketing of charitable and social events.
 
-* Foot Traffic heat maps of the trail
+* Heat Maps of Foot Traffic and Elizabeth River Trail Use
 
 * Measurement of relative importance of various social issues to the citizens
 ___
 
-How you play the game,  
-
 Machine learning models have already been applied to leverage census data from the United Way Greater Hampton Roads Dashboard
 
-*granulate data based on city, interest, times, weather, 
+This census data is input to Azure's Machine Learning Studio and the data is automatically joined based on city location, and years.  A SQL script reduces years into quarters for comparison, and a python script pulls the CSV data from the dashboard into the game's algorithm to perform multi variant statistical analysis, and deploys real time data via a https url.  Data is saved and used in future machine learning models to make predictions on how to best use the data we have for the greatest society impact.
 
-A python script pulls the CSV data from the dashboard into the game's algorithm- developed in azure - to perform multi variant statistical analysis, and deploys real time data via a https url.  Data is saved and used in future machine learning models to make predictions on how to best use the data we have for the greatest society impact.
+* Create an even distribution of resources to social motivators
 
-* Examples
+* Targeting awareness campaigns for cancer screenings  
+
+* Promote social causes that need assistance to groups that are they are underpreferred to  
+
+* Creating special events in real life that reward in game ( eg, Habitat for Humanity, blood drives)
+
+All this data is self supporting, and as more data is gained, the game effectively designs itself.  Every aspect of the community can contribute, and can gain.
 
 Many games analyze data to improve their game.  This one analyzes data to improve the community.  
 
-data slicing
 ___
 
 # Credits
