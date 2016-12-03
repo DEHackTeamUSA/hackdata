@@ -1,20 +1,37 @@
 # Pocket Change
 
-A location based augmented reality game, where the winner is society.  Players' interaction will create increased traffic for the partnering businesses, develop a revenue stream for charity, and be the source of ongoing data that can be used by the city to help its citizens.
+* One sentence overview of the game
 
-Players will choose a team based on the social need that is most important to them.  Companies along the Elizabeth River Trail will pledge a portion of their profits to the United Way, to become a 'United WayPoint'.  Players will visit the United WayPoints and compete for control of it within the Pocket Change game.  The donations from the company that owns that WayPoint will go to the United Way cause that is associated with the controlling team.  
+* Players will choose from available teams based on the social need that is most important to that player.  Companies along the Elizabeth River Trail can pledge a percentage of their profits to the United Way, in order to become a point of interest in the game, a 'United WayPoint'.  
 
-Players traveling along the Elizabeth River Trail will find supplies within their game, including ones sponsored by involved companies.  Players can also earn supplies by participating in community projects and events.  
+* Players visit the United WayPoints and compete in the game for control.  The donations from the company that owns that WayPoint will go to the United Way social cause that is associated with the controlling team.  
 
+* Players traveling along the Elizabeth River Trail can find virtual supplies within their game to help them control WayPoints, including drops sponsored by involved companies.  Players can also earn supplies by participating in chartiable projects and community events.  
+This alone is a good use of data to make a good change.  But we want a great change.
+_______________________________
 
-The game will serve as a backdrop for data collection, and the city can use this data to meet the needs of the citizens, and modify the game.  Examples of this include
+The game will make massive ammounts of non personalized data available.  The city can use this data to meet the needs of the citizens, and modify the game, which in turn becomes better at meeting needs and generating charitable revnue.  Examples of this include
+
 * Finding wifi and cellular deadspots
-* Analyzing amenity use, such as the number of users waiting for use of amenities
+
+* Analyzing amenity use, such as the number of users waiting for availability
+
 * More efficient marketing of charitable and social events.
-* Spending habits
-* Foot Traffic and trail use mapping
-* Measurement of relative importance of various social issues to the users
 
-Many games analyze data to change their game.  This one analyzes data to change the world.  
+* Foot Traffic heat maps of the trail
 
+* Measurement of relative importance of various social issues to the citizens
+_______________________________
+How you play the game,  
 
+Machine learning models have already been applied to leverage census data from the United Way Greater Hampton Roads Dashboard
+
+*granulate data based on city, interest, times, weather, 
+
+A python script pulls the CSV data from the dashboard into the game's algorithm- developed in azure - to perform multi variant statistical analysis, and deploys real time data via a https url.  Data is saved and used in future machine learning models to make predictions on how to best use the data we have for the greatest society impact.
+
+* Examples
+
+Many games analyze data to improve their game.  This one analyzes data to improve the community.  
+
+data slicing
