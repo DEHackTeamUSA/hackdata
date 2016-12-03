@@ -11,7 +11,15 @@ body{
 	margin:0;
 	background-color: #1a8b8f;
 }
+a{
+	color:white;
+	text-decoration: none;	
+}
 
+a:visited{
+	color:white;
+	text-decoration: none;	
+}
 #stickybar{
 	padding-top:15px;
 	padding-bottom:0px;
