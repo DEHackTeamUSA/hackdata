@@ -57,9 +57,9 @@ APIs
 * Blizzard Battle.Net
 
 
-[Brandon Burr](https://www.linkedin.com/in/baburr) - Machine Learning, Regression Modeling 
-[Marc Fogleman](https://www.linkedin.com/in/marcfogleman) - Web Design, Data Acquisition
-[Andrew Hollis](https://www.linkedin.com/in/andrew-hollis-a8680b25) - Design, Visualization 
-[Corey Wofford](https://www.linkedin.com/in/coreywofford) - Python Scripting, Data Analysis
+[Brandon Burr](https://www.linkedin.com/in/baburr) - Machine Learning, Regression Modeling  
+[Marc Fogleman](https://www.linkedin.com/in/marcfogleman) - Web Design, Data Acquisition  
+[Andrew Hollis](https://www.linkedin.com/in/andrew-hollis-a8680b25) - Design, Visualization   
+[Corey Wofford](https://www.linkedin.com/in/coreywofford) - Python Scripting, Data Analysis  
 
 
