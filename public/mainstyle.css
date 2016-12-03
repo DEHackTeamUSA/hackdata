@@ -8,6 +8,7 @@
 	box-sizing:border-box;
 }
 body{
+	margin:0;
 	background-color: #1a8b8f;
 }
 
@@ -17,11 +18,14 @@ body{
 	margin-bottom:5vmin;
 	width:100%;
 	height:40px;
+	font-weight:bold;
+	color:white;
+	font-family: sans-serif;
 	background-color:black;
 }
 
 #github{
-
+	float:right;
 }
 #heroku{
 	float:left;
